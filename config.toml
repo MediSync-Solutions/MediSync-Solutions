@@ -30,11 +30,8 @@ title = "Posts"
 
 [params.one]
 enable = true
-title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
-body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
-'''
+title = "Title"
+body = "samle text"
 
 [[params.one.icon]]
 icon = "fa-gem"
@@ -57,60 +54,60 @@ enable = true
 [[params.two.section]]
 img = "img/pic01.jpg"
 img_alt = "blurry background: white/grey"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Title'
+body = 'sample text'
 
 [[params.two.section]]
 img = "img/pic02.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Title'
+body = 'sample text'
 
 [[params.two.section]]
 img = "img/pic03.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Title'
+body = 'sample text'
 
 [params.three]
 enable = true
-title = 'Асхаб тамаев'
+title = 'Title'
 body = '''
-я не химик я не химик я не химик
+sample text
 '''
 
 [[params.three.feature]]
 icon = "fa-paper-plane"
-title = "Залупа"
-body = "использование носимых и мобильных устройств"
+title = "Title"
+body = "samle text"
 
 [[params.three.feature]]
 icon = "solid fa-laptop"
-title = "залупа 2"
-body = "индивидуальные особенности взаимодействия в системах с человеко-машинным интерфейсом (HMI)"
+title = "Title"
+body = "samle text"
 
 [[params.three.feature]]
 icon = "solid fa-code"
-title = "залупа 3"
-body = "оценка сенсомоторных рассогласований"
+title = "Title"
+body = "samle text"
 
 [[params.three.feature]]
 icon = "solid fa-headphones-alt"
-title = "придумали хуйни"
-body = "выявление психо-эмоциональных параметров"
+title = "Title"
+body = "samle text"
 
 [[params.three.feature]]
 icon = "fa-heart"
-title = "тройник 220v"
-body = "цифровые двойники"
+title = "Title"
+body = "samle text"
 
 [[params.three.feature]]
 icon = "fa-flag"
-title = "Калекие клетик ктик тки"
-body = "- Доводилось ли вам бывать в тюрьме? Клетки.- Клетки.- Вас держат в клетке? Клетки.- Клетки.- Когда вы не исполняете обязанности, вас держат в коробке? Клетки.- Клетки.- Связаны.- Связаны.- Что вы чувствуете держа за руку того кого любите? Связаны.- Связаны.- Вас учили приставлять палец к пальцу? Связаны.- Связаны.- Вы жаждете связать с кем-нибудь сердце? Связаны.- Связаны.- Вам снится связь с кем-либо? Связаны.- Связаны.- Что вы чувствуете, держа в руках своего ребенка? Связаны.- Связаны.- Вы чувствуете, что вам чего-то не хватает?- Связаны.- Клеток связанных внутри.- Клеток связанных внутри.- Повторите три раза клеток связанных внутри- Клеток связанных внутри. Клеток связанных внутри. Клеток связанных внутри."
+title = "Title"
+body = "samle text"
 
 [params.cta]
 enable = false
-title = "Arcue ut vel commodo"
-body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+title = "Title"
+body = "samle text"
 
 [[params.cta.link]]
 href = "#contact"
