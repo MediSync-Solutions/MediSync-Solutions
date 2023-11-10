@@ -1,1 +1,6 @@
+/target/
 hugo.exe
+/themes/
+/public/
+.hugo_build.lock
+/resources/
