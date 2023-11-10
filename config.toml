@@ -3,7 +3,7 @@ title = "MediSync Solutions"
 languageCode = "ru-ru"
 defaultContentLanguage = "ru"
 paginate = "7"
-theme = "spectral"
+theme = "main-hugo-theme"
 
 [params]
 fancyTitle = "MediSync Solutions" # title for frontpage, may include image
